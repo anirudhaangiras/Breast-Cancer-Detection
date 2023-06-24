@@ -1,8 +1,6 @@
 # Breast-Cancer-Detection
 
-Wolberg,WIlliam. (1992). 
-
-Breast Cancer Wisconsin (Original). 
+Wolberg,WIlliam. (1992). Breast Cancer Wisconsin (Original). 
 
 UCI Machine Learning Repository. 
 
