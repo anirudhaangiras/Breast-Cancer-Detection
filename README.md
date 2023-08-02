@@ -1,4 +1,4 @@
-# Breast Cancer Detection
+# Breast Cancer Classification Using Logistic Regression
 
 ## Dataset:
 
